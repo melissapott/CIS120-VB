@@ -1,0 +1,10 @@
+12345
+Fred Mertz
+1
+54321
+Ethel Mertz
+8
+45678
+Bill Gates
+10000
+-1

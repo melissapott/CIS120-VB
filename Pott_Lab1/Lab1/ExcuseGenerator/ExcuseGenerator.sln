@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ExcuseGenerator", "ExcuseGenerator.vbproj", "{418EE1E0-EF33-46A0-AE77-BE3EB58FBFA4}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{418EE1E0-EF33-46A0-AE77-BE3EB58FBFA4}.Debug.ActiveCfg = Debug|.NET
+		{418EE1E0-EF33-46A0-AE77-BE3EB58FBFA4}.Debug.Build.0 = Debug|.NET
+		{418EE1E0-EF33-46A0-AE77-BE3EB58FBFA4}.Release.ActiveCfg = Release|.NET
+		{418EE1E0-EF33-46A0-AE77-BE3EB58FBFA4}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Payroll", "Payroll.vbproj", "{07B066A9-0754-4896-BA45-FF2E2865F89B}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{07B066A9-0754-4896-BA45-FF2E2865F89B}.Debug.ActiveCfg = Debug|.NET
+		{07B066A9-0754-4896-BA45-FF2E2865F89B}.Debug.Build.0 = Debug|.NET
+		{07B066A9-0754-4896-BA45-FF2E2865F89B}.Release.ActiveCfg = Release|.NET
+		{07B066A9-0754-4896-BA45-FF2E2865F89B}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

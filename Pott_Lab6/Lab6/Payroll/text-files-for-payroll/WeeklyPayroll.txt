@@ -1,0 +1,4 @@
+Fred Mertz	$12.00
+Ethel Mertz	$60.00
+Bill Gates	$30,000.00
+Total Payroll:	$30,072.00
